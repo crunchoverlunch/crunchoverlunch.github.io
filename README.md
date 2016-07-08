@@ -1,2 +1,2 @@
-# crunchoverlunch.github.io
-Crunch
+# Crunch
+Creative Exchange Over Lunch
